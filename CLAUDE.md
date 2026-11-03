@@ -13,20 +13,23 @@ de Notion (página "Julie de la Playa").
 
 ## El negocio
 - Nombre: Julie de la Playa
-- Rubro / qué vende: _(pendiente)_
+- Rubro / qué vende: indumentaria y lencería femenina
 - Ubicación: _(pendiente)_
 - Desde cuándo existe: _(pendiente)_
 
 ## Productos y servicios
-_(pendiente)_
+- Indumentaria femenina
+- Lencería femenina
+- Detalle de líneas y productos: _(pendiente)_
 
 ## Clientes
-_(pendiente)_
+- Generalmente mujeres.
 
 ## Marca e identidad
 - Tono de comunicación: _(pendiente)_
 - Colores / estilo visual: _(pendiente)_
-- Redes sociales y web: _(pendiente)_
+- Web (tienda online): https://juliedelaplaya.com.ar
+- Instagram: https://www.instagram.com/juliedelaplaya
 
 ## Precios, proveedores y canales de venta
 _(pendiente)_
